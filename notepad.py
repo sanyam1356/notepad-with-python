@@ -54,7 +54,7 @@ class Interface(Frame):
             pass
 
         # Set the window text
-        self.master.title('Untitled - Pixel Notepad')
+        self.master.title('Untitled - Notepad')
 
         # To make the text area auto resizable
         self.master.grid_rowconfigure(0, weight=1)
