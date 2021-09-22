@@ -40,5 +40,5 @@ New features are welcome if they are present in a version of Microsoft Notepad, 
 [Richard Brodie](https://en.wikipedia.org/wiki/Richard_Brodie_(programmer)/) - Original Microsoft Notepad author
 
 ## License
-[GLWT](LICENSE)
+[MIT](LICENSE)
 
